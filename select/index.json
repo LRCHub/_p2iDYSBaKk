@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Call of the Night「AMV/Edit」",
+  "base_artist": "Re:Seventeen",
+  "createdAt": "2025-12-01T06:08:29.193548Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Call of the Night",
+      "artist": "Dynazty",
+      "has_synced": false,
+      "path": "select/pl_01_Call_of_the_Night_Dynazty.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Call Of The Night",
+      "artist": "Dynazty",
+      "has_synced": false,
+      "path": "select/pl_02_Call_Of_The_Night_Dynazty.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Call Of The Night",
+      "artist": "Dynazty",
+      "has_synced": false,
+      "path": "select/pl_03_Call_Of_The_Night_Dynazty.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Call Of The Night",
+      "artist": "Dynazty",
+      "has_synced": false,
+      "path": "select/pl_04_Call_Of_The_Night_Dynazty.txt"
+    }
+  ]
+}
